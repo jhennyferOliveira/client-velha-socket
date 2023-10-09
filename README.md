@@ -1,8 +1,8 @@
 # Tic-Tac-Toe (Client)
 This project is the client side of a 3D tic-tac-toe multiplayer game(2 players) with chat support.
 
-## Network Communication
-Socket
+## Network Connection
+RMI
 
 ## Language
 Java 17
