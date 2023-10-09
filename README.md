@@ -12,7 +12,7 @@ Java Swing
 
 ## How to get started
 1. Download the client project
-2. Run the [server project](https://github.com/jhennyferOliveira/server-velha-socket)
+2. Run the [server project](https://github.com/jhennyferOliveira/server-velha-socket/tree/2.0)
 3. Run the client project with Java 17
 4. Start playing!
 
